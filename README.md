@@ -12,6 +12,7 @@ Libraries Needed:
   bayes_opt
 
 **Project Overview**
+
 Data Collection/Generation:
 
 The data was collected from the specified link and is also included in the code submission. The dataset provided all the necessary statistics, which included: "season," "player," "age," "experience," "tm," "g," "mp," "drb_percent," "stl_percent," "blk_percent," "dws," "dbpm," "share," "w," "l," and "d_rtg." The data came from three .csv files: "Player Award Shares.csv," "Advanced.csv," and "Team Summaries.csv." Each .csv file was converted into separate data frames.
